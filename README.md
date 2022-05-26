@@ -4,3 +4,6 @@
 
 ## Tecnologias Usadas:
  - Solidity
+
+ 
+![Video]({(https://www.youtube.com/watch?v=NQix9VJ1hdI)} "SmartContract - Votação");
